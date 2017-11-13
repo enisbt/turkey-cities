@@ -484,5 +484,17 @@
     "plate": "81",
     "latitude": "40.87705",
     "longitude": "31.31927"
+  },
+  {
+    "name": "musul",
+    "plate": "82",
+    "latitude": "36.3566",
+    "longitude": "43.1640"
+  },
+  {
+    "name": "kerkük",
+    "plate": "83",
+    "latitude": "35.4656",
+    "longitude": "44.3804"
   }
 ]
