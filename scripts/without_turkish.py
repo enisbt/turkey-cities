@@ -27,7 +27,7 @@ def replace_turkish_letters_list(counties):
     return new_counties
 
 
-with open("cities.json", "r") as file:
+with open("../cities.json", "r") as file:
     data = json.load(file)
     for city in data:
         city["name"] = replace_turkish_letters(city["name"])
@@ -35,6 +35,6 @@ with open("cities.json", "r") as file:
 
 
 
-with open("cities_en.json", "w") as file:
+with open("../cities_en.json", "w") as file:
     data = json.dumps(data, indent=4)
     file.write(data)
