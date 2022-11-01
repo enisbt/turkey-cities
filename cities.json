@@ -355,8 +355,8 @@
   {
     "name": "çankırı",
     "plate": "18",
-    "latitude": "33.58838",
-    "longitude": "40.53690",
+    "latitude": "40.53690",
+    "longitude": "33.58838",
     "counties": [
       "merkez",
       "çerkeş",
@@ -592,8 +592,8 @@
   {
     "name": "gümüşhane",
     "plate": "29",
-    "latitude": "39.31432",
-    "longitude": "40.28036",
+    "latitude": "40.28036",
+    "longitude": "39.31432",
     "counties": [
       "merkez",
       "kelkit",
