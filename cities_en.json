@@ -2,8 +2,8 @@
     {
         "name": "adana",
         "plate": "01",
-        "latitude": "37.00167",
-        "longitude": "35.32889",
+        "latitude": "36.9914",
+        "longitude": "35.3308",
         "counties": [
             "seyhan",
             "yuregir",
@@ -25,8 +25,8 @@
     {
         "name": "adiyaman",
         "plate": "02",
-        "latitude": "37.76441",
-        "longitude": "38.27629",
+        "latitude": "37.7636",
+        "longitude": "38.2773",
         "counties": [
             "merkez",
             "kahta",
@@ -42,8 +42,8 @@
     {
         "name": "afyonkarahisar",
         "plate": "03",
-        "latitude": "38.75688",
-        "longitude": "30.53870",
+        "latitude": "38.7569",
+        "longitude": "30.5387",
         "counties": [
             "merkez",
             "sandikli",
@@ -68,8 +68,8 @@
     {
         "name": "agri",
         "plate": "04",
-        "latitude": "39.71944",
-        "longitude": "43.05139",
+        "latitude": "39.7191",
+        "longitude": "43.0506",
         "counties": [
             "merkez",
             "patnos",
@@ -84,8 +84,8 @@
     {
         "name": "amasya",
         "plate": "05",
-        "latitude": "40.65238",
-        "longitude": "35.82881",
+        "latitude": "40.6565",
+        "longitude": "35.8373",
         "counties": [
             "merkez",
             "merzifon",
@@ -99,8 +99,8 @@
     {
         "name": "ankara",
         "plate": "06",
-        "latitude": "39.92553",
-        "longitude": "32.86628",
+        "latitude": "39.9334",
+        "longitude": "32.8597",
         "counties": [
             "cankaya",
             "kecioren",
@@ -132,8 +132,8 @@
     {
         "name": "antalya",
         "plate": "07",
-        "latitude": "36.54936",
-        "longitude": "31.99699",
+        "latitude": "36.8969",
+        "longitude": "30.7133",
         "counties": [
             "kepez",
             "muratpasa",
@@ -159,8 +159,8 @@
     {
         "name": "artvin",
         "plate": "08",
-        "latitude": "41.18322",
-        "longitude": "41.83098",
+        "latitude": "41.1809",
+        "longitude": "41.8208",
         "counties": [
             "hopa",
             "merkez",
@@ -176,8 +176,8 @@
     {
         "name": "aydin",
         "plate": "09",
-        "latitude": "37.84501",
-        "longitude": "27.83963",
+        "latitude": "37.8380",
+        "longitude": "27.8456",
         "counties": [
             "efeler",
             "nazilli",
@@ -200,8 +200,8 @@
     {
         "name": "balikesir",
         "plate": "10",
-        "latitude": "39.55409",
-        "longitude": "27.73733",
+        "latitude": "39.6533",
+        "longitude": "27.8903",
         "counties": [
             "karesi",
             "altieylul",
@@ -228,8 +228,8 @@
     {
         "name": "bilecik",
         "plate": "11",
-        "latitude": "40.14192",
-        "longitude": "29.97932",
+        "latitude": "40.1426",
+        "longitude": "29.9793",
         "counties": [
             "merkez",
             "bozuyuk",
@@ -244,8 +244,8 @@
     {
         "name": "bingol",
         "plate": "12",
-        "latitude": "38.88472",
-        "longitude": "40.49389",
+        "latitude": "38.8855",
+        "longitude": "40.4966",
         "counties": [
             "merkez",
             "genc",
@@ -260,8 +260,8 @@
     {
         "name": "bitlis",
         "plate": "13",
-        "latitude": "38.40115",
-        "longitude": "42.10784",
+        "latitude": "38.4006",
+        "longitude": "42.1095",
         "counties": [
             "tatvan",
             "merkez",
@@ -275,8 +275,8 @@
     {
         "name": "bolu",
         "plate": "14",
-        "latitude": "40.73164",
-        "longitude": "31.58981",
+        "latitude": "40.7325",
+        "longitude": "31.6082",
         "counties": [
             "merkez",
             "gerede",
@@ -292,8 +292,8 @@
     {
         "name": "burdur",
         "plate": "15",
-        "latitude": "37.72028",
-        "longitude": "30.29083",
+        "latitude": "37.7183",
+        "longitude": "30.2823",
         "counties": [
             "merkez",
             "bucak",
@@ -311,8 +311,8 @@
     {
         "name": "bursa",
         "plate": "16",
-        "latitude": "40.19329",
-        "longitude": "29.07420",
+        "latitude": "40.1885",
+        "longitude": "29.0610",
         "counties": [
             "osmangazi",
             "yildirim",
@@ -335,8 +335,8 @@
     {
         "name": "canakkale",
         "plate": "17",
-        "latitude": "40.14556",
-        "longitude": "26.40858",
+        "latitude": "40.1467",
+        "longitude": "26.4086",
         "counties": [
             "merkez",
             "biga",
@@ -355,8 +355,8 @@
     {
         "name": "cankiri",
         "plate": "18",
-        "latitude": "33.58838",
-        "longitude": "40.53690",
+        "latitude": "40.6002",
+        "longitude": "33.6162",
         "counties": [
             "merkez",
             "cerkes",
@@ -375,8 +375,8 @@
     {
         "name": "corum",
         "plate": "19",
-        "latitude": "40.54889",
-        "longitude": "34.95333",
+        "latitude": "40.5499",
+        "longitude": "34.9537",
         "counties": [
             "merkez",
             "sungurlu",
@@ -397,8 +397,8 @@
     {
         "name": "denizli",
         "plate": "20",
-        "latitude": "37.78333",
-        "longitude": "29.09471",
+        "latitude": "37.7830",
+        "longitude": "29.0963",
         "counties": [
             "pamukkale",
             "merkezefendi",
@@ -424,8 +424,8 @@
     {
         "name": "diyarbakir",
         "plate": "21",
-        "latitude": "37.91363",
-        "longitude": "40.21721",
+        "latitude": "37.9250",
+        "longitude": "40.2110",
         "counties": [
             "baglar",
             "kayapinar",
@@ -449,8 +449,8 @@
     {
         "name": "edirne",
         "plate": "22",
-        "latitude": "41.67496",
-        "longitude": "26.58348",
+        "latitude": "41.6771",
+        "longitude": "26.5557",
         "counties": [
             "merkez",
             "kesan",
@@ -466,8 +466,8 @@
     {
         "name": "elazig",
         "plate": "23",
-        "latitude": "38.68096",
-        "longitude": "39.22639",
+        "latitude": "38.6748",
+        "longitude": "39.2225",
         "counties": [
             "merkez",
             "kovancilar",
@@ -485,8 +485,8 @@
     {
         "name": "erzincan",
         "plate": "24",
-        "latitude": "39.73919",
-        "longitude": "39.49015",
+        "latitude": "39.7468",
+        "longitude": "39.4911",
         "counties": [
             "merkez",
             "tercan",
@@ -501,8 +501,8 @@
     {
         "name": "erzurum",
         "plate": "25",
-        "latitude": "39.90861",
-        "longitude": "41.27694",
+        "latitude": "39.9055",
+        "longitude": "41.2658",
         "counties": [
             "yakutiye",
             "palandoken",
@@ -529,8 +529,8 @@
     {
         "name": "eskisehir",
         "plate": "26",
-        "latitude": "39.76619",
-        "longitude": "30.52671",
+        "latitude": "39.7667",
+        "longitude": "30.5256",
         "counties": [
             "odunpazari",
             "tepebasi",
@@ -551,8 +551,8 @@
     {
         "name": "gaziantep",
         "plate": "27",
-        "latitude": "37.05944",
-        "longitude": "37.3825",
+        "latitude": "37.0660",
+        "longitude": "37.3781",
         "counties": [
             "sahinbey",
             "sehitkamil",
@@ -568,8 +568,8 @@
     {
         "name": "giresun",
         "plate": "28",
-        "latitude": "40.91698",
-        "longitude": "38.38741",
+        "latitude": "40.9175",
+        "longitude": "38.3927",
         "counties": [
             "merkez",
             "bulancak",
@@ -592,8 +592,8 @@
     {
         "name": "gumushane",
         "plate": "29",
-        "latitude": "39.31432",
-        "longitude": "40.28036",
+        "latitude": "40.4608",
+        "longitude": "39.4803",
         "counties": [
             "merkez",
             "kelkit",
@@ -606,8 +606,8 @@
     {
         "name": "hakkari",
         "plate": "30",
-        "latitude": "37.57444",
-        "longitude": "43.74083",
+        "latitude": "37.5774",
+        "longitude": "43.7368",
         "counties": [
             "yuksekova",
             "merkez",
@@ -619,8 +619,8 @@
     {
         "name": "hatay",
         "plate": "31",
-        "latitude": "36.20000",
-        "longitude": "36.16666",
+        "latitude": "36.2023",
+        "longitude": "36.1613",
         "counties": [
             "antakya",
             "iskenderun",
@@ -642,8 +642,8 @@
     {
         "name": "isparta",
         "plate": "32",
-        "latitude": "37.76800",
-        "longitude": "30.56190",
+        "latitude": "37.7626",
+        "longitude": "30.5537",
         "counties": [
             "merkez",
             "yalvac",
@@ -663,8 +663,8 @@
     {
         "name": "mersin",
         "plate": "33",
-        "latitude": "36.81210",
-        "longitude": "34.64147",
+        "latitude": "36.8121",
+        "longitude": "34.6415",
         "counties": [
             "tarsus",
             "toroslar",
@@ -684,8 +684,8 @@
     {
         "name": "istanbul",
         "plate": "34",
-        "latitude": "41.0400",
-        "longitude": "28.9900",
+        "latitude": "41.0082",
+        "longitude": "28.9784",
         "counties": [
             "esenyurt",
             "kucukcekmece",
@@ -731,8 +731,8 @@
     {
         "name": "izmir",
         "plate": "35",
-        "latitude": "38.418850",
-        "longitude": "27.128720",
+        "latitude": "38.4237",
+        "longitude": "27.1428",
         "counties": [
             "buca",
             "karabaglar",
@@ -769,8 +769,8 @@
     {
         "name": "kars",
         "plate": "36",
-        "latitude": "40.60199",
-        "longitude": "43.09495",
+        "latitude": "40.6013",
+        "longitude": "43.0975",
         "counties": [
             "merkez",
             "kagizman",
@@ -785,8 +785,8 @@
     {
         "name": "kastamonu",
         "plate": "37",
-        "latitude": "41.37805",
-        "longitude": "33.77528",
+        "latitude": "41.3766",
+        "longitude": "33.7765",
         "counties": [
             "merkez",
             "tosya",
@@ -813,8 +813,8 @@
     {
         "name": "kayseri",
         "plate": "38",
-        "latitude": "38.73480",
-        "longitude": "35.46798",
+        "latitude": "38.7205",
+        "longitude": "35.4826",
         "counties": [
             "melikgazi",
             "kocasinan",
@@ -837,8 +837,8 @@
     {
         "name": "kirklareli",
         "plate": "39",
-        "latitude": "41.73508",
-        "longitude": "27.22521",
+        "latitude": "41.7355",
+        "longitude": "27.2244",
         "counties": [
             "luleburgaz",
             "merkez",
@@ -853,8 +853,8 @@
     {
         "name": "kirsehir",
         "plate": "40",
-        "latitude": "39.14583",
-        "longitude": "34.16389",
+        "latitude": "39.1461",
+        "longitude": "34.1595",
         "counties": [
             "merkez",
             "kaman",
@@ -868,8 +868,8 @@
     {
         "name": "kocaeli",
         "plate": "41",
-        "latitude": "40.85327",
-        "longitude": "29.88152",
+        "latitude": "40.7654",
+        "longitude": "29.9408",
         "counties": [
             "gebze",
             "izmit",
@@ -888,8 +888,8 @@
     {
         "name": "konya",
         "plate": "42",
-        "latitude": "37.87464",
-        "longitude": "32.49315",
+        "latitude": "37.8746",
+        "longitude": "32.4932",
         "counties": [
             "selcuklu",
             "meram",
@@ -923,8 +923,8 @@
     {
         "name": "kutahya",
         "plate": "43",
-        "latitude": "39.41995",
-        "longitude": "29.98573",
+        "latitude": "39.4200",
+        "longitude": "29.9857",
         "counties": [
             "merkez",
             "tavsanli",
@@ -944,8 +944,8 @@
     {
         "name": "malatya",
         "plate": "44",
-        "latitude": "38.35536",
-        "longitude": "38.33352",
+        "latitude": "38.3554",
+        "longitude": "38.3335",
         "counties": [
             "battalgazi",
             "yesilyurt",
@@ -965,8 +965,8 @@
     {
         "name": "manisa",
         "plate": "45",
-        "latitude": "38.61403",
-        "longitude": "27.42956",
+        "latitude": "38.6140",
+        "longitude": "27.4296",
         "counties": [
             "yunusemre",
             "sehzadeler",
@@ -990,8 +990,8 @@
     {
         "name": "kahramanmaras",
         "plate": "46",
-        "latitude": "37.57527",
-        "longitude": "36.92282",
+        "latitude": "37.5753",
+        "longitude": "36.9228",
         "counties": [
             "onikisubat",
             "dulkadiroglu",
@@ -1009,8 +1009,8 @@
     {
         "name": "mardin",
         "plate": "47",
-        "latitude": "37.31290",
-        "longitude": "40.73395",
+        "latitude": "37.3129",
+        "longitude": "40.7340",
         "counties": [
             "kiziltepe",
             "artuklu",
@@ -1027,8 +1027,8 @@
     {
         "name": "mugla",
         "plate": "48",
-        "latitude": "37.18358",
-        "longitude": "28.48639",
+        "latitude": "37.2154",
+        "longitude": "28.3634",
         "counties": [
             "bodrum",
             "fethiye",
@@ -1048,8 +1048,8 @@
     {
         "name": "mus",
         "plate": "49",
-        "latitude": "38.73456",
-        "longitude": "41.49103",
+        "latitude": "38.7346",
+        "longitude": "41.4910",
         "counties": [
             "merkez",
             "bulanik",
@@ -1062,8 +1062,8 @@
     {
         "name": "nevsehir",
         "plate": "50",
-        "latitude": "38.62469",
-        "longitude": "34.71415",
+        "latitude": "38.6247",
+        "longitude": "34.7142",
         "counties": [
             "merkez",
             "urgup",
@@ -1078,8 +1078,8 @@
     {
         "name": "nigde",
         "plate": "51",
-        "latitude": "37.96977",
-        "longitude": "34.67660",
+        "latitude": "37.9698",
+        "longitude": "34.6766",
         "counties": [
             "merkez",
             "bor",
@@ -1092,8 +1092,8 @@
     {
         "name": "ordu",
         "plate": "52",
-        "latitude": "40.98616",
-        "longitude": "37.87972",
+        "latitude": "40.9862",
+        "longitude": "37.8797",
         "counties": [
             "altinordu",
             "unye",
@@ -1118,8 +1118,8 @@
     {
         "name": "rize",
         "plate": "53",
-        "latitude": "41.02551",
-        "longitude": "40.51766",
+        "latitude": "41.0255",
+        "longitude": "40.5177",
         "counties": [
             "merkez",
             "cayeli",
@@ -1138,8 +1138,8 @@
     {
         "name": "sakarya",
         "plate": "54",
-        "latitude": "40.77307",
-        "longitude": "30.39481",
+        "latitude": "40.7889",
+        "longitude": "30.4060",
         "counties": [
             "adapazari",
             "serdivan",
@@ -1161,8 +1161,8 @@
     {
         "name": "samsun",
         "plate": "55",
-        "latitude": "41.27970",
-        "longitude": "36.33606",
+        "latitude": "41.2797",
+        "longitude": "36.3361",
         "counties": [
             "ilkadim",
             "atakum",
@@ -1186,8 +1186,8 @@
     {
         "name": "siirt",
         "plate": "56",
-        "latitude": "37.92740",
-        "longitude": "41.94197",
+        "latitude": "37.9274",
+        "longitude": "41.9420",
         "counties": [
             "merkez",
             "kurtalan",
@@ -1201,8 +1201,8 @@
     {
         "name": "sinop",
         "plate": "57",
-        "latitude": "41.55947",
-        "longitude": "34.85805",
+        "latitude": "42.0280",
+        "longitude": "35.1517",
         "counties": [
             "merkez",
             "boyabat",
@@ -1218,8 +1218,8 @@
     {
         "name": "sivas",
         "plate": "58",
-        "latitude": "39.75054",
-        "longitude": "37.01502",
+        "latitude": "39.7505",
+        "longitude": "37.0150",
         "counties": [
             "merkez",
             "sarkisla",
@@ -1243,8 +1243,8 @@
     {
         "name": "tekirdag",
         "plate": "59",
-        "latitude": "40.97809",
-        "longitude": "27.51167",
+        "latitude": "40.9781",
+        "longitude": "27.5117",
         "counties": [
             "corlu",
             "suleymanpasa",
@@ -1262,8 +1262,8 @@
     {
         "name": "tokat",
         "plate": "60",
-        "latitude": "40.32346",
-        "longitude": "36.55219",
+        "latitude": "40.3235",
+        "longitude": "36.5522",
         "counties": [
             "merkez",
             "erbaa",
@@ -1282,8 +1282,8 @@
     {
         "name": "trabzon",
         "plate": "61",
-        "latitude": "41.00269",
-        "longitude": "39.71676",
+        "latitude": "41.0027",
+        "longitude": "39.7168",
         "counties": [
             "ortahisar",
             "akcaabat",
@@ -1308,8 +1308,8 @@
     {
         "name": "tunceli",
         "plate": "62",
-        "latitude": "39.10617",
-        "longitude": "39.54825",
+        "latitude": "39.1062",
+        "longitude": "39.5483",
         "counties": [
             "merkez",
             "pertek",
@@ -1324,8 +1324,8 @@
     {
         "name": "sanliurfa",
         "plate": "63",
-        "latitude": "37.16740",
-        "longitude": "38.79551",
+        "latitude": "37.1674",
+        "longitude": "38.7955",
         "counties": [
             "eyyubiye",
             "haliliye",
@@ -1345,8 +1345,8 @@
     {
         "name": "usak",
         "plate": "64",
-        "latitude": "38.67422",
-        "longitude": "29.40588",
+        "latitude": "38.6742",
+        "longitude": "29.4059",
         "counties": [
             "merkez",
             "banaz",
@@ -1359,8 +1359,8 @@
     {
         "name": "van",
         "plate": "65",
-        "latitude": "38.50120",
-        "longitude": "43.37297",
+        "latitude": "38.5012",
+        "longitude": "43.3730",
         "counties": [
             "ipekyolu",
             "ercis",
@@ -1380,8 +1380,8 @@
     {
         "name": "yozgat",
         "plate": "66",
-        "latitude": "39.82104",
-        "longitude": "34.80857",
+        "latitude": "39.8210",
+        "longitude": "34.8086",
         "counties": [
             "merkez",
             "sorgun",
@@ -1402,8 +1402,8 @@
     {
         "name": "zonguldak",
         "plate": "67",
-        "latitude": "41.45352",
-        "longitude": "31.78937",
+        "latitude": "41.4535",
+        "longitude": "31.7894",
         "counties": [
             "eregli",
             "merkez",
@@ -1418,8 +1418,8 @@
     {
         "name": "aksaray",
         "plate": "68",
-        "latitude": "38.36862",
-        "longitude": "34.02970",
+        "latitude": "38.3686",
+        "longitude": "34.0297",
         "counties": [
             "merkez",
             "ortakoy",
@@ -1434,8 +1434,8 @@
     {
         "name": "bayburt",
         "plate": "69",
-        "latitude": "40.26032",
-        "longitude": "40.22804",
+        "latitude": "40.2603",
+        "longitude": "40.2280",
         "counties": [
             "merkez",
             "demirozu",
@@ -1445,8 +1445,8 @@
     {
         "name": "karaman",
         "plate": "70",
-        "latitude": "37.18100",
-        "longitude": "33.22224",
+        "latitude": "37.1810",
+        "longitude": "33.2222",
         "counties": [
             "merkez",
             "ermenek",
@@ -1459,8 +1459,8 @@
     {
         "name": "kirikkale",
         "plate": "71",
-        "latitude": "39.83978",
-        "longitude": "33.50887",
+        "latitude": "39.8398",
+        "longitude": "33.5089",
         "counties": [
             "merkez",
             "yahsihan",
@@ -1476,8 +1476,8 @@
     {
         "name": "batman",
         "plate": "72",
-        "latitude": "37.88951",
-        "longitude": "41.12928",
+        "latitude": "37.8895",
+        "longitude": "41.1293",
         "counties": [
             "merkez",
             "kozluk",
@@ -1490,8 +1490,8 @@
     {
         "name": "sirnak",
         "plate": "73",
-        "latitude": "37.51897",
-        "longitude": "42.45371",
+        "latitude": "37.5190",
+        "longitude": "42.4537",
         "counties": [
             "cizre",
             "silopi",
@@ -1505,8 +1505,8 @@
     {
         "name": "bartin",
         "plate": "74",
-        "latitude": "41.63760",
-        "longitude": "32.33381",
+        "latitude": "41.6376",
+        "longitude": "32.3338",
         "counties": [
             "merkez",
             "ulus",
@@ -1517,8 +1517,8 @@
     {
         "name": "ardahan",
         "plate": "75",
-        "latitude": "41.11295",
-        "longitude": "42.70228",
+        "latitude": "41.1130",
+        "longitude": "42.7023",
         "counties": [
             "merkez",
             "gole",
@@ -1531,8 +1531,8 @@
     {
         "name": "igdir",
         "plate": "76",
-        "latitude": "39.92005",
-        "longitude": "44.04361",
+        "latitude": "39.9201",
+        "longitude": "44.0436",
         "counties": [
             "merkez",
             "tuzluca",
@@ -1543,8 +1543,8 @@
     {
         "name": "yalova",
         "plate": "77",
-        "latitude": "40.65489",
-        "longitude": "29.28418",
+        "latitude": "40.6549",
+        "longitude": "29.2842",
         "counties": [
             "merkez",
             "ciftlikkoy",
@@ -1557,8 +1557,8 @@
     {
         "name": "karabuk",
         "plate": "78",
-        "latitude": "41.19562",
-        "longitude": "32.62265",
+        "latitude": "41.1956",
+        "longitude": "32.6227",
         "counties": [
             "merkez",
             "safranbolu",
@@ -1571,8 +1571,8 @@
     {
         "name": "kilis",
         "plate": "79",
-        "latitude": "36.71647",
-        "longitude": "37.11466",
+        "latitude": "36.7165",
+        "longitude": "37.1147",
         "counties": [
             "merkez",
             "musabeyli",
@@ -1583,7 +1583,7 @@
     {
         "name": "osmaniye",
         "plate": "80",
-        "latitude": "37.07462",
+        "latitude": "37.0746",
         "longitude": "36.2464",
         "counties": [
             "merkez",
@@ -1598,8 +1598,8 @@
     {
         "name": "duzce",
         "plate": "81",
-        "latitude": "40.87705",
-        "longitude": "31.31927",
+        "latitude": "40.8387",
+        "longitude": "31.1626",
         "counties": [
             "merkez",
             "akcakoca",
