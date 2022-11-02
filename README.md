@@ -8,8 +8,8 @@ JSON list of cities of Turkey with plate, latitude, longitude and county list
   {
     "name": "erzurum",
     "plate": "25",
-    "latitude": "39.90861",
-    "longitude": "41.27694",
+    "latitude": "39.9055",
+    "longitude": "41.2658",
     "counties": [
       "yakutiye",
       "palandöken",
