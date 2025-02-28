@@ -5,21 +5,21 @@
     "latitude": "36.9914",
     "longitude": "35.3308",
     "counties": [
-      "seyhan",
-      "yüreğir",
-      "çukurova",
-      "ceyhan",
-      "sarıçam",
-      "kozan",
-      "imamoğlu",
-      "karataş",
-      "karaisalı",
-      "pozantı",
-      "yumurtalık",
-      "tufanbeyli",
-      "feke",
       "aladağ",
-      "saimbeyli"
+      "ceyhan",
+      "çukurova",
+      "feke",
+      "imamoğlu",
+      "karaisalı",
+      "karataş",
+      "kozan",
+      "pozantı",
+      "saimbeyli",
+      "sarıçam",
+      "seyhan",
+      "tufanbeyli",
+      "yumurtalık",
+      "yüreğir"
     ]
   },
   {
@@ -28,15 +28,15 @@
     "latitude": "37.7636",
     "longitude": "38.2773",
     "counties": [
-      "merkez",
-      "kahta",
       "besni",
-      "gölbaşı",
-      "gerger",
-      "sincik",
       "çelikhan",
-      "tut",
-      "samsat"
+      "gerger",
+      "gölbaşı",
+      "kahta",
+      "merkez",
+      "samsat",
+      "sincik",
+      "tut"
     ]
   },
   {
@@ -45,24 +45,24 @@
     "latitude": "38.7569",
     "longitude": "30.5387",
     "counties": [
-      "merkez",
-      "sandıklı",
-      "dinar",
+      "başmakçı",
+      "bayat",
       "bolvadin",
-      "sinanpaşa",
-      "emirdağ",
-      "şuhut",
       "çay",
-      "ihsaniye",
-      "iscehisar",
-      "sultandağı",
       "çobanlar",
       "dazkırı",
-      "başmakçı",
-      "hocalar",
-      "bayat",
+      "dinar",
+      "emirdağ",
       "evciler",
-      "kızılören"
+      "hocalar",
+      "ihsaniye",
+      "iscehisar",
+      "kızılören",
+      "merkez",
+      "sandıklı",
+      "sinanpaşa",
+      "sultandağı",
+      "şuhut"
     ]
   },
   {
@@ -71,14 +71,14 @@
     "latitude": "39.7191",
     "longitude": "43.0506",
     "counties": [
+      "diyadin",
+      "doğubayazıt",
+      "eleşkirt",
+      "hamur",
       "merkez",
       "patnos",
-      "doğubayazıt",
-      "diyadin",
-      "eleşkirt",
-      "tutak",
       "taşlıçay",
-      "hamur"
+      "tutak"
     ]
   },
   {
@@ -87,13 +87,13 @@
     "latitude": "40.6565",
     "longitude": "35.8373",
     "counties": [
+      "göynücek",
+      "gümüşhacıköy",
+      "hamamözü",
       "merkez",
       "merzifon",
       "suluova",
-      "taşova",
-      "gümüşhacıköy",
-      "göynücek",
-      "hamamözü"
+      "taşova"
     ]
   },
   {
@@ -102,31 +102,31 @@
     "latitude": "39.9334",
     "longitude": "32.8597",
     "counties": [
-      "çankaya",
-      "keçiören",
-      "yenimahalle",
-      "mamak",
-      "etimesgut",
-      "sincan",
-      "altındağ",
-      "pursaklar",
-      "gölbaşı",
-      "polatlı",
-      "çubuk",
-      "kahramankazan",
-      "beypazarı",
-      "elmadağ",
-      "şereflikoçhisar",
       "akyurt",
-      "nallıhan",
-      "haymana",
-      "kızılcahamam",
-      "bala",
-      "kalecik",
+      "altındağ",
       "ayaş",
-      "güdül",
+      "bala",
+      "beypazarı",
       "çamlıdere",
-      "evren"
+      "çankaya",
+      "çubuk",
+      "elmadağ",
+      "etimesgut",
+      "evren",
+      "gölbaşı",
+      "güdül",
+      "haymana",
+      "kahramankazan",
+      "kalecik",
+      "keçiören",
+      "kızılcahamam",
+      "mamak",
+      "nallıhan",
+      "polatlı",
+      "pursaklar",
+      "sincan",
+      "şereflikoçhisar",
+      "yenimahalle"
     ]
   },
   {
@@ -135,25 +135,25 @@
     "latitude": "36.8969",
     "longitude": "30.7133",
     "counties": [
-      "kepez",
-      "muratpaşa",
-      "alanya",
-      "manavgat",
-      "konyaaltı",
-      "serik",
-      "aksu",
-      "kumluca",
-      "döşemealtı",
-      "kaş",
-      "korkuteli",
-      "gazipaşa",
-      "finike",
-      "kemer",
-      "elmalı",
-      "demre",
       "akseki",
+      "aksu",
+      "alanya",
+      "demre",
+      "döşemealtı",
+      "elmalı",
+      "finike",
+      "gazipaşa",
       "gündoğmuş",
-      "ibradı"
+      "ibradı",
+      "kaş",
+      "kemer",
+      "kepez",
+      "konyaaltı",
+      "korkuteli",
+      "kumluca",
+      "manavgat",
+      "muratpaşa",
+      "serik"
     ]
   },
   {
@@ -162,15 +162,15 @@
     "latitude": "41.1809",
     "longitude": "41.8208",
     "counties": [
-      "hopa",
-      "merkez",
-      "borçka",
-      "yusufeli",
-      "arhavi",
-      "şavşat",
       "ardanuç",
+      "arhavi",
+      "borçka",
+      "hopa",
+      "kemalpaşa",
+      "merkez",
       "murgul",
-      "kemalpaşa"
+      "şavşat",
+      "yusufeli"
     ]
   },
   {
@@ -179,22 +179,23 @@
     "latitude": "37.8380",
     "longitude": "27.8456",
     "counties": [
+      "bozdoğan",
+      "buharkent",
+      "çine",
+      "didim",
       "efeler",
+      "germencik",
+      "incirliova",
+      "karacasu",
+      "karpuzlu",
+      "koçarlı",
+      "köşk",
+      "kuşadası",
+      "kuyucak",
       "nazilli",
       "söke",
-      "kuşadası",
-      "didim",
-      "çine",
-      "incirliova",
-      "germencik",
-      "bozdoğan",
-      "köşk",
-      "kuyucak",
       "sultanhisar",
-      "karacasu",
-      "yenipazar",
-      "buharkent",
-      "karpuzlu"
+      "yenipazar"
     ]
   },
   {
@@ -203,26 +204,26 @@
     "latitude": "39.6533",
     "longitude": "27.8903",
     "counties": [
-      "karesi",
       "altıeylül",
-      "bandırma",
-      "edremit",
-      "gönen",
       "ayvalık",
-      "burhaniye",
+      "balya",
+      "bandırma",
       "bigadiç",
-      "susurluk",
+      "burhaniye",
       "dursunbey",
-      "sındırgı",
-      "ivrindi",
+      "edremit",
       "erdek",
+      "gömeç",
+      "gönen",
       "havran",
+      "ivrindi",
+      "karesi",
       "kepsut",
       "manyas",
+      "marmara",
       "savaştepe",
-      "balya",
-      "gömeç",
-      "marmara"
+      "sındırgı",
+      "susurluk"
     ]
   },
   {
@@ -231,14 +232,14 @@
     "latitude": "40.1426",
     "longitude": "29.9793",
     "counties": [
-      "merkez",
       "bozüyük",
-      "osmaneli",
-      "söğüt",
       "gölpazarı",
+      "inhisar",
+      "merkez",
+      "osmaneli",
       "pazaryeri",
-      "yenipazar",
-      "inhisar"
+      "söğüt",
+      "yenipazar"
     ]
   },
   {
@@ -247,14 +248,14 @@
     "latitude": "38.8855",
     "longitude": "40.4966",
     "counties": [
-      "merkez",
-      "genç",
-      "solhan",
-      "karlıova",
       "adaklı",
+      "genç",
+      "karlıova",
       "kiğı",
-      "yedisu",
-      "yayladere"
+      "merkez",
+      "solhan",
+      "yayladere",
+      "yedisu"
     ]
   },
   {
@@ -263,13 +264,13 @@
     "latitude": "38.4006",
     "longitude": "42.1095",
     "counties": [
-      "tatvan",
-      "merkez",
-      "güroymak",
+      "adilcevaz",
       "ahlat",
+      "güroymak",
       "hizan",
+      "merkez",
       "mutki",
-      "adilcevaz"
+      "tatvan"
     ]
   },
   {
@@ -278,15 +279,15 @@
     "latitude": "40.7325",
     "longitude": "31.6082",
     "counties": [
-      "merkez",
-      "gerede",
-      "mudurnu",
-      "göynük",
-      "mengen",
-      "yeniçağa",
       "dörtdivan",
+      "gerede",
+      "göynük",
+      "kıbrıscık",
+      "mengen",
+      "merkez",
+      "mudurnu",
       "seben",
-      "kıbrıscık"
+      "yeniçağa"
     ]
   },
   {
@@ -295,17 +296,17 @@
     "latitude": "37.7183",
     "longitude": "30.2823",
     "counties": [
-      "merkez",
-      "bucak",
-      "gölhisar",
-      "yeşilova",
-      "çavdır",
-      "tefenni",
       "ağlasun",
-      "karamanlı",
       "altınyayla",
+      "bucak",
+      "çavdır",
       "çeltikçi",
-      "kemer"
+      "gölhisar",
+      "karamanlı",
+      "kemer",
+      "merkez",
+      "tefenni",
+      "yeşilova"
     ]
   },
   {
@@ -314,22 +315,23 @@
     "latitude": "40.1885",
     "longitude": "29.0610",
     "counties": [
-      "osmangazi",
-      "yıldırım",
-      "nilüfer",
-      "gemlik",
-      "mustafakemalpaşa",
-      "mudanya",
-      "gürsu",
-      "karacabey",
-      "orhangazi",
-      "kestel",
-      "yenişehir",
-      "iznik",
-      "orhaneli",
-      "keles",
       "büyükorhan",
-      "harmancık"
+      "gemlik",
+      "gürsu",
+      "harmancık",
+      "inegöl",
+      "iznik",
+      "karacabey",
+      "keles",
+      "kestel",
+      "mudanya",
+      "mustafakemalpaşa",
+      "nilüfer",
+      "orhaneli",
+      "orhangazi",
+      "osmangazi",
+      "yenişehir",
+      "yıldırım"
     ]
   },
   {
@@ -338,18 +340,18 @@
     "latitude": "40.1467",
     "longitude": "26.4086",
     "counties": [
-      "merkez",
-      "biga",
-      "çan",
-      "gelibolu",
-      "yenice",
       "ayvacık",
-      "ezine",
       "bayramiç",
-      "lapseki",
+      "biga",
+      "bozcaada",
+      "çan",
       "eceabat",
+      "ezine",
+      "gelibolu",
       "gökçeada",
-      "bozcaada"
+      "lapseki",
+      "merkez",
+      "yenice"
     ]
   },
   {
@@ -358,18 +360,18 @@
     "latitude": "40.6002",
     "longitude": "33.6162",
     "counties": [
-      "merkez",
+      "atkaracalar",
+      "bayramören",
       "çerkeş",
+      "eldivan",
       "ılgaz",
+      "kızılırmak",
+      "korgun",
+      "kurşunlu",
+      "merkez",
       "orta",
       "şabanözü",
-      "kurşunlu",
-      "yapraklı",
-      "kızılırmak",
-      "atkaracalar",
-      "eldivan",
-      "korgun",
-      "bayramören"
+      "yapraklı"
     ]
   },
   {
@@ -378,20 +380,20 @@
     "latitude": "40.5499",
     "longitude": "34.9537",
     "counties": [
-      "merkez",
-      "sungurlu",
-      "osmancık",
-      "iskilip",
       "alaca",
       "bayat",
-      "mecitözü",
-      "kargı",
-      "ortaköy",
-      "uğurludağ",
+      "boğazkale",
       "dodurga",
-      "oğuzlar",
+      "iskilip",
+      "kargı",
       "laçin",
-      "boğazkale"
+      "mecitözü",
+      "merkez",
+      "oğuzlar",
+      "ortaköy",
+      "osmancık",
+      "sungurlu",
+      "uğurludağ"
     ]
   },
   {
@@ -400,25 +402,25 @@
     "latitude": "37.7830",
     "longitude": "29.0963",
     "counties": [
-      "pamukkale",
-      "merkezefendi",
-      "çivril",
       "acıpayam",
-      "tavas",
-      "honaz",
-      "sarayköy",
-      "buldan",
-      "kale",
-      "çal",
-      "çameli",
-      "serinhisar",
-      "bozkurt",
-      "güney",
-      "çardak",
+      "babadağ",
+      "baklan",
       "bekilli",
       "beyağaç",
-      "babadağ",
-      "baklan"
+      "bozkurt",
+      "buldan",
+      "çal",
+      "çameli",
+      "çardak",
+      "çivril",
+      "güney",
+      "honaz",
+      "kale",
+      "merkezefendi",
+      "pamukkale",
+      "sarayköy",
+      "serinhisar",
+      "tavas"
     ]
   },
   {
@@ -428,22 +430,22 @@
     "longitude": "40.2110",
     "counties": [
       "bağlar",
-      "kayapınar",
-      "yenişehir",
-      "ergani",
-      "sur",
       "bismil",
-      "silvan",
-      "çınar",
       "çermik",
+      "çınar",
+      "çüngüş",
       "dicle",
-      "kulp",
-      "hani",
-      "lice",
       "eğil",
+      "ergani",
+      "hani",
       "hazro",
+      "kayapınar",
       "kocaköy",
-      "çüngüş"
+      "kulp",
+      "lice",
+      "silvan",
+      "sur",
+      "yenişehir"
     ]
   },
   {
@@ -452,15 +454,15 @@
     "latitude": "41.6771",
     "longitude": "26.5557",
     "counties": [
-      "merkez",
-      "keşan",
-      "uzunköprü",
-      "ipsala",
-      "havsa",
-      "meriç",
       "enez",
+      "havsa",
+      "ipsala",
+      "keşan",
+      "lalapaşa",
+      "meriç",
+      "merkez",
       "süloğlu",
-      "lalapaşa"
+      "uzunköprü"
     ]
   },
   {
@@ -469,17 +471,17 @@
     "latitude": "38.6748",
     "longitude": "39.2225",
     "counties": [
-      "merkez",
-      "kovancılar",
-      "karakoçan",
-      "palu",
+      "ağın",
+      "alacakaya",
       "arıcak",
       "baskil",
-      "maden",
-      "sivrice",
-      "alacakaya",
+      "karakoçan",
       "keban",
-      "ağın"
+      "kovancılar",
+      "maden",
+      "merkez",
+      "palu",
+      "sivrice"
     ]
   },
   {
@@ -488,14 +490,14 @@
     "latitude": "39.7468",
     "longitude": "39.4911",
     "counties": [
-      "merkez",
-      "tercan",
-      "üzümlü",
       "çayırlı",
       "iliç",
       "kemah",
       "kemaliye",
-      "otlukbeli"
+      "merkez",
+      "otlukbeli",
+      "tercan",
+      "üzümlü"
     ]
   },
   {
@@ -504,26 +506,26 @@
     "latitude": "39.9055",
     "longitude": "41.2658",
     "counties": [
-      "yakutiye",
-      "palandöken",
-      "aziziye",
-      "horasan",
-      "oltu",
-      "pasinler",
-      "karayazı",
-      "hınıs",
-      "tekman",
-      "karaçoban",
       "aşkale",
-      "şenkaya",
+      "aziziye",
       "çat",
-      "köprüköy",
+      "hınıs",
+      "horasan",
       "ispir",
-      "tortum",
+      "karaçoban",
+      "karayazı",
+      "köprüköy",
       "narman",
-      "uzundere",
+      "oltu",
       "olur",
-      "pazaryolu"
+      "palandöken",
+      "pasinler",
+      "pazaryolu",
+      "şenkaya",
+      "tekman",
+      "tortum",
+      "uzundere",
+      "yakutiye"
     ]
   },
   {
@@ -532,20 +534,20 @@
     "latitude": "39.7667",
     "longitude": "30.5256",
     "counties": [
-      "odunpazarı",
-      "tepebaşı",
-      "sivrihisar",
-      "çifteler",
-      "seyitgazi",
       "alpu",
-      "mihalıççık",
-      "mahmudiye",
       "beylikova",
-      "inönü",
-      "sarıcakaya",
+      "çifteler",
       "günyüzü",
+      "han",
+      "inönü",
+      "mahmudiye",
       "mihalgazi",
-      "han"
+      "mihalıççık",
+      "odunpazarı",
+      "sarıcakaya",
+      "seyitgazi",
+      "sivrihisar",
+      "tepebaşı"
     ]
   },
   {
@@ -554,15 +556,15 @@
     "latitude": "37.0660",
     "longitude": "37.3781",
     "counties": [
+      "araban",
+      "islahiye",
+      "karkamış",
+      "nizip",
+      "nurdağı",
+      "oğuzeli",
       "şahinbey",
       "şehitkamil",
-      "nizip",
-      "islahiye",
-      "nurdağı",
-      "araban",
-      "oğuzeli",
-      "yavuzeli",
-      "karkamış"
+      "yavuzeli"
     ]
   },
   {
@@ -571,22 +573,22 @@
     "latitude": "40.9175",
     "longitude": "38.3927",
     "counties": [
-      "merkez",
-      "bulancak",
-      "espiye",
-      "görele",
-      "tirebolu",
-      "dereli",
-      "şebinkarahisar",
-      "keşap",
-      "yağlıdere",
       "alucra",
-      "piraziz",
-      "eynesil",
-      "güce",
+      "bulancak",
+      "çamoluk",
       "çanakçı",
+      "dereli",
       "doğankent",
-      "çamoluk"
+      "espiye",
+      "eynesil",
+      "görele",
+      "güce",
+      "keşap",
+      "merkez",
+      "piraziz",
+      "şebinkarahisar",
+      "tirebolu",
+      "yağlıdere"
     ]
   },
   {
@@ -595,12 +597,12 @@
     "latitude": "40.4608",
     "longitude": "39.4803",
     "counties": [
-      "merkez",
       "kelkit",
-      "şiran",
+      "köse",
       "kürtün",
-      "torul",
-      "köse"
+      "merkez",
+      "şiran",
+      "torul"
     ]
   },
   {
@@ -609,11 +611,11 @@
     "latitude": "37.5774",
     "longitude": "43.7368",
     "counties": [
-      "yüksekova",
-      "merkez",
       "çukurca",
+      "derecik",
+      "merkez",
       "şemdinli",
-      "çukurca"
+      "yüksekova"
     ]
   },
   {
@@ -622,21 +624,21 @@
     "latitude": "36.2023",
     "longitude": "36.1613",
     "counties": [
+      "altınözü",
       "antakya",
-      "iskenderun",
+      "arsuz",
+      "belen",
       "defne",
       "dörtyol",
-      "samandağ",
-      "kırıkhan",
-      "reyhanlı",
-      "arsuz",
-      "altınözü",
-      "hassa",
       "erzin",
+      "hassa",
+      "iskenderun",
+      "kırıkhan",
+      "kumlu",
       "payas",
-      "belen",
-      "yayladağı",
-      "kumlu"
+      "reyhanlı",
+      "samandağ",
+      "yayladağı"
     ]
   },
   {
@@ -645,18 +647,18 @@
     "latitude": "37.7626",
     "longitude": "30.5537",
     "counties": [
-      "merkez",
-      "yalvaç",
+      "aksu",
+      "atabey",
       "eğirdir",
-      "şarkikaraağaç",
       "gelendost",
+      "gönen",
       "keçiborlu",
+      "merkez",
       "senirkent",
       "sütçüler",
-      "gönen",
+      "şarkikaraağaç",
       "uluborlu",
-      "atabey",
-      "aksu",
+      "yalvaç",
       "yenişarbademli"
     ]
   },
@@ -666,19 +668,19 @@
     "latitude": "36.8121",
     "longitude": "34.6415",
     "counties": [
+      "akdeniz",
+      "anamur",
+      "aydıncık",
+      "bozyazı",
+      "çamlıyayla",
+      "erdemli",
+      "gülnar",
+      "mezitli",
+      "mut",
+      "silifke",
       "tarsus",
       "toroslar",
-      "akdeniz",
-      "yenişehir",
-      "mezitli",
-      "erdemli",
-      "silifke",
-      "anamur",
-      "mut",
-      "bozyazı",
-      "gülnar",
-      "aydıncık",
-      "çamlıyayla"
+      "yenişehir"
     ]
   },
   {
@@ -687,45 +689,45 @@
     "latitude": "41.0082",
     "longitude": "28.9784",
     "counties": [
-      "esenyurt",
-      "küçükçekmece",
-      "bağcılar",
-      "ümraniye",
-      "pendik",
-      "bahçelievler",
-      "üsküdar",
-      "sultangazi",
-      "gaziosmanpaşa",
-      "maltepe",
-      "kartal",
-      "esenler",
-      "kadıköy",
-      "kağıthane",
-      "avcılar",
-      "ataşehir",
-      "fatih",
-      "eyüp",
-      "sancaktepe",
-      "başakşehir",
-      "sarıyer",
-      "sultanbeyli",
-      "güngören",
-      "beylikdüzü",
-      "zeytinburnu",
-      "bayrampaşa",
-      "şişli",
-      "beykoz",
+      "adalar",
       "arnavutköy",
-      "tuzla",
-      "çekmeköy",
+      "ataşehir",
+      "avcılar",
+      "bağcılar",
+      "bahçelievler",
+      "bakırköy",
+      "başakşehir",
+      "bayrampaşa",
+      "beşiktaş",
+      "beykoz",
+      "beylikdüzü",
       "beyoğlu",
       "büyükçekmece",
-      "bakırköy",
-      "beşiktaş",
-      "silivri",
       "çatalca",
+      "çekmeköy",
+      "esenler",
+      "esenyurt",
+      "eyüpsultan",
+      "fatih",
+      "gaziosmanpaşa",
+      "güngören",
+      "kadıköy",
+      "kağıthane",
+      "kartal",
+      "küçükçekmece",
+      "maltepe",
+      "pendik",
+      "sancaktepe",
+      "sarıyer",
+      "silivri",
+      "sultanbeyli",
+      "sultangazi",
       "şile",
-      "adalar"
+      "şişli",
+      "tuzla",
+      "ümraniye",
+      "üsküdar",
+      "zeytinburnu"
     ]
   },
   {
@@ -734,36 +736,36 @@
     "latitude": "38.4237",
     "longitude": "27.1428",
     "counties": [
-      "buca",
-      "karabağlar",
-      "bornova",
-      "konak",
-      "karşıyaka",
-      "bayraklı",
-      "çiğli",
-      "torbalı",
-      "menemen",
-      "gaziemir",
-      "ödemiş",
-      "kemalpaşa",
-      "bergama",
       "aliağa",
-      "menderes",
-      "tire",
       "balçova",
-      "narlıdere",
-      "urla",
-      "kiraz",
-      "dikili",
-      "çeşme",
       "bayındır",
+      "bayraklı",
+      "bergama",
+      "beydağ",
+      "bornova",
+      "buca",
+      "çeşme",
+      "çiğli",
+      "dikili",
+      "foça",
+      "gaziemir",
+      "güzelbahçe",
+      "karabağlar",
+      "karaburun",
+      "karşıyaka",
+      "kemalpaşa",
+      "kınık",
+      "kiraz",
+      "konak",
+      "menderes",
+      "menemen",
+      "narlıdere",
+      "ödemiş",
       "seferihisar",
       "selçuk",
-      "güzelbahçe",
-      "foça",
-      "kınık",
-      "beydağ",
-      "karaburun"
+      "tire",
+      "torbalı",
+      "urla"
     ]
   },
   {
@@ -772,13 +774,13 @@
     "latitude": "40.6013",
     "longitude": "43.0975",
     "counties": [
-      "merkez",
+      "akyaka",
+      "arpaçay",
+      "digor",
       "kağızman",
+      "merkez",
       "sarıkamış",
       "selim",
-      "digor",
-      "arpaçay",
-      "akyaka",
       "susuz"
     ]
   },
@@ -788,26 +790,26 @@
     "latitude": "41.3766",
     "longitude": "33.7765",
     "counties": [
-      "merkez",
-      "tosya",
-      "taşköprü",
-      "cide",
-      "inebolu",
-      "araç",
-      "devrekani",
-      "bozkurt",
-      "daday",
-      "azdavay",
-      "çatalzeytin",
-      "küre",
-      "doğanyurt",
-      "ihsangazi",
-      "pınarbaşı",
-      "şenpazar",
       "abana",
-      "seydiler",
+      "ağlı",
+      "araç",
+      "azdavay",
+      "bozkurt",
+      "cide",
+      "çatalzeytin",
+      "daday",
+      "devrekani",
+      "doğanyurt",
       "hanönü",
-      "ağlı"
+      "ihsangazi",
+      "inebolu",
+      "küre",
+      "merkez",
+      "pınarbaşı",
+      "seydiler",
+      "şenpazar",
+      "taşköprü",
+      "tosya"
     ]
   },
   {
@@ -816,22 +818,22 @@
     "latitude": "38.7205",
     "longitude": "35.4826",
     "counties": [
-      "melikgazi",
-      "kocasinan",
-      "talas",
-      "develi",
-      "yahyalı",
-      "bünyan",
-      "incesu",
-      "pınarbaşı",
-      "tomarza",
-      "yeşilhisar",
-      "sarıoğlan",
-      "hacılar",
-      "sarız",
       "akkışla",
+      "bünyan",
+      "develi",
       "felahiye",
-      "özvatan"
+      "hacılar",
+      "incesu",
+      "kocasinan",
+      "melikgazi",
+      "özvatan",
+      "pınarbaşı",
+      "sarıoğlan",
+      "sarız",
+      "talas",
+      "tomarza",
+      "yahyalı",
+      "yeşilhisar"
     ]
   },
   {
@@ -840,14 +842,14 @@
     "latitude": "41.7355",
     "longitude": "27.2244",
     "counties": [
+      "babaeski",
+      "demirköy",
+      "kofçaz",
       "lüleburgaz",
       "merkez",
-      "babaeski",
-      "vize",
-      "pınarhisar",
-      "demirköy",
       "pehlivanköy",
-      "kofçaz"
+      "pınarhisar",
+      "vize"
     ]
   },
   {
@@ -856,13 +858,13 @@
     "latitude": "39.1461",
     "longitude": "34.1595",
     "counties": [
-      "merkez",
-      "kaman",
-      "mucur",
-      "çiçekdağı",
+      "akçakent",
       "akpınar",
       "boztepe",
-      "akçakent"
+      "çiçekdağı",
+      "kaman",
+      "merkez",
+      "mucur"
     ]
   },
   {
@@ -871,18 +873,18 @@
     "latitude": "40.7654",
     "longitude": "29.9408",
     "counties": [
-      "gebze",
-      "izmit",
-      "darıca",
-      "körfez",
-      "gölcük",
-      "derince",
-      "çayırova",
-      "kartepe",
       "başiskele",
-      "karamürsel",
+      "çayırova",
+      "darıca",
+      "derince",
+      "dilovası",
+      "gebze",
+      "gölcük",
+      "izmit",
       "kandıra",
-      "dilovası"
+      "karamürsel",
+      "kartepe",
+      "körfez"
     ]
   },
   {
@@ -891,33 +893,37 @@
     "latitude": "37.8746",
     "longitude": "32.4932",
     "counties": [
-      "selçuklu",
-      "meram",
-      "karatay",
-      "ereğli",
-      "akşehir",
-      "beyşehir",
-      "çumra",
-      "seydişehir",
-      "ılgın",
-      "cihanbeyli",
-      "kulu",
-      "karapınar",
-      "kadınhanı",
-      "sarayönü",
-      "bozkır",
-      "yunak",
-      "doğanhisar",
-      "hüyük",
-      "altınekin",
-      "hadim",
-      "çeltik",
-      "emirgazi",
-      "tuzlukçu",
-      "derebucak",
+      "ahırlı",
       "akören",
+      "akşehir",
+      "altınekin",
+      "beyşehir",
+      "bozkır",
+      "cihanbeyli",
+      "çeltik",
+      "çumra",
+      "derbent",
+      "derebucak",
+      "doğanhisar",
+      "emirgazi",
+      "ereğli",
+      "güneysınır",
+      "hadim",
       "halkapınar",
-      "yalıhüyük"
+      "hüyük",
+      "ılgın",
+      "kadınhanı",
+      "karapınar",
+      "karatay",
+      "kulu",
+      "meram",
+      "sarayönü",
+      "selçuklu",
+      "seydişehir",
+      "taşkent",
+      "tuzlukçu",
+      "yalıhüyük",
+      "yunak"
     ]
   },
   {
@@ -926,19 +932,19 @@
     "latitude": "39.4200",
     "longitude": "29.9857",
     "counties": [
-      "merkez",
-      "tavşanlı",
-      "simav",
-      "gediz",
-      "emet",
       "altıntaş",
-      "domaniç",
-      "hisarcık",
       "aslanapa",
       "çavdarhisar",
-      "şaphane",
+      "domaniç",
+      "dumlupınar",
+      "emet",
+      "gediz",
+      "hisarcık",
+      "merkez",
       "pazarlar",
-      "dumlupınar"
+      "simav",
+      "şaphane",
+      "tavşanlı"
     ]
   },
   {
@@ -947,19 +953,19 @@
     "latitude": "38.3554",
     "longitude": "38.3335",
     "counties": [
-      "battalgazi",
-      "yeşilyurt",
-      "doğanşehir",
       "akçadağ",
-      "darende",
-      "hekimhan",
-      "pütürge",
-      "yazıhan",
       "arapgir",
       "arguvan",
-      "kuluncak",
+      "battalgazi",
+      "darende",
+      "doğanşehir",
+      "doğanyol",
+      "hekimhan",
       "kale",
-      "doğanyol"
+      "kuluncak",
+      "pütürge",
+      "yazıhan",
+      "yeşilyurt"
     ]
   },
   {
@@ -968,23 +974,23 @@
     "latitude": "38.6140",
     "longitude": "27.4296",
     "counties": [
-      "yunusemre",
-      "şehzadeler",
-      "akhisar",
-      "salihli",
-      "turgutlu",
-      "soma",
-      "alaşehir",
-      "saruhanlı",
-      "kula",
-      "kırkağaç",
-      "demirci",
-      "sarıgöl",
-      "gördes",
-      "selendi",
       "ahmetli",
+      "akhisar",
+      "alaşehir",
+      "demirci",
       "gölmarmara",
-      "köprübaşı"
+      "gördes",
+      "kırkağaç",
+      "köprübaşı",
+      "kula",
+      "salihli",
+      "sarıgöl",
+      "saruhanlı",
+      "selendi",
+      "soma",
+      "şehzadeler",
+      "turgutlu",
+      "yunusemre"
     ]
   },
   {
@@ -993,17 +999,17 @@
     "latitude": "37.5753",
     "longitude": "36.9228",
     "counties": [
-      "onikişubat",
-      "dulkadiroğlu",
-      "elbistan",
       "afşin",
-      "türkoğlu",
-      "pazarcık",
-      "göksun",
       "andırın",
       "çağlayancerit",
+      "dulkadiroğlu",
+      "ekinözü",
+      "elbistan",
+      "göksun",
       "nurhak",
-      "ekinözü"
+      "onikişubat",
+      "pazarcık",
+      "türkoğlu"
     ]
   },
   {
@@ -1012,16 +1018,16 @@
     "latitude": "37.3129",
     "longitude": "40.7340",
     "counties": [
-      "kızıltepe",
       "artuklu",
+      "dargeçit",
+      "derik",
+      "kızıltepe",
+      "mazıdağı",
       "midyat",
       "nusaybin",
-      "derik",
-      "mazıdağı",
-      "dargeçit",
+      "ömerli",
       "savur",
-      "yeşilli",
-      "ömerli"
+      "yeşilli"
     ]
   },
   {
@@ -1031,18 +1037,18 @@
     "longitude": "28.3634",
     "counties": [
       "bodrum",
-      "fethiye",
-      "milas",
-      "menteşe",
-      "marmaris",
-      "seydikemer",
-      "ortaca",
-      "yatağan",
       "dalaman",
-      "köyceğiz",
-      "ula",
       "datça",
-      "kavaklıdere"
+      "fethiye",
+      "kavaklıdere",
+      "köyceğiz",
+      "marmaris",
+      "menteşe",
+      "milas",
+      "ortaca",
+      "seydikemer",
+      "ula",
+      "yatağan"
     ]
   },
   {
@@ -1051,12 +1057,12 @@
     "latitude": "38.7346",
     "longitude": "41.4910",
     "counties": [
-      "merkez",
       "bulanık",
-      "malazgirt",
-      "varto",
       "hasköy",
-      "korkut"
+      "korkut",
+      "malazgirt",
+      "merkez",
+      "varto"
     ]
   },
   {
@@ -1065,14 +1071,14 @@
     "latitude": "38.6247",
     "longitude": "34.7142",
     "counties": [
-      "merkez",
-      "ürgüp",
-      "avanos",
-      "gülşehir",
-      "derinkuyu",
       "acıgöl",
+      "avanos",
+      "derinkuyu",
+      "gülşehir",
+      "hacıbektaş",
       "kozaklı",
-      "hacıbektaş"
+      "merkez",
+      "ürgüp"
     ]
   },
   {
@@ -1081,12 +1087,12 @@
     "latitude": "37.9698",
     "longitude": "34.6766",
     "counties": [
-      "merkez",
-      "bor",
-      "çiftlik",
-      "ulukışla",
       "altunhisar",
-      "çamardı"
+      "bor",
+      "çamardı",
+      "çiftlik",
+      "merkez",
+      "ulukışla"
     ]
   },
   {
@@ -1095,24 +1101,25 @@
     "latitude": "40.9862",
     "longitude": "37.8797",
     "counties": [
-      "altınordu",
-      "ünye",
-      "fatsa",
-      "gölköy",
-      "perşembe",
-      "kumru",
-      "aybastı",
-      "korgan",
       "akkuş",
-      "ulubey",
-      "mesudiye",
-      "ikizce",
-      "gürgentepe",
+      "altınordu",
+      "aybastı",
+      "çamaş",
       "çatalpınar",
       "çaybaşı",
+      "fatsa",
+      "gölköy",
+      "gülyalı",
+      "gürgentepe",
+      "ikizce",
+      "kabadüz",
       "kabataş",
-      "çamaş",
-      "gülyalı"
+      "korgan",
+      "kumru",
+      "mesudiye",
+      "perşembe",
+      "ulubey",
+      "ünye"
     ]
   },
   {
@@ -1121,18 +1128,18 @@
     "latitude": "41.0255",
     "longitude": "40.5177",
     "counties": [
-      "merkez",
-      "çayeli",
       "ardeşen",
-      "pazar",
+      "çamlıhemşin",
+      "çayeli",
+      "derepazarı",
       "fındıklı",
       "güneysu",
-      "kalkandere",
-      "iyidere",
-      "derepazarı",
-      "çamlıhemşin",
+      "hemşin",
       "ikizdere",
-      "hemşin"
+      "iyidere",
+      "kalkandere",
+      "merkez",
+      "pazar"
     ]
   },
   {
@@ -1142,19 +1149,20 @@
     "longitude": "30.4060",
     "counties": [
       "adapazarı",
-      "serdivan",
       "akyazı",
-      "erenler",
-      "hendek",
-      "karasu",
-      "geyve",
       "arifiye",
-      "sapanca",
-      "pamukova",
+      "erenler",
       "ferizli",
+      "geyve",
+      "hendek",
+      "karapürçek",
+      "karasu",
       "kaynarca",
       "kocaali",
-      "karapürçek",
+      "pamukova",
+      "sapanca",
+      "serdivan",
+      "söğütlü",
       "taraklı"
     ]
   },
@@ -1164,22 +1172,22 @@
     "latitude": "41.2797",
     "longitude": "36.3361",
     "counties": [
-      "ilkadım",
-      "atakum",
-      "bafra",
-      "çarşamba",
-      "canik",
-      "vezirköprü",
-      "terme",
-      "tekkeköy",
-      "havza",
-      "alaçam",
       "19 mayıs",
-      "ayvacık",
-      "kavak",
-      "salıpazarı",
+      "alaçam",
       "asarcık",
+      "atakum",
+      "ayvacık",
+      "bafra",
+      "canik",
+      "çarşamba",
+      "havza",
+      "ilkadım",
+      "kavak",
       "ladik",
+      "salıpazarı",
+      "tekkeköy",
+      "terme",
+      "vezirköprü",
       "yakakent"
     ]
   },
@@ -1189,12 +1197,12 @@
     "latitude": "37.9274",
     "longitude": "41.9420",
     "counties": [
-      "merkez",
-      "kurtalan",
-      "pervari",
       "baykan",
-      "şirvan",
       "eruh",
+      "kurtalan",
+      "merkez",
+      "pervari",
+      "şirvan",
       "tillo"
     ]
   },
@@ -1204,15 +1212,15 @@
     "latitude": "42.0280",
     "longitude": "35.1517",
     "counties": [
-      "merkez",
-      "boyabat",
-      "gerze",
       "ayancık",
-      "durağan",
-      "türkeli",
-      "erfelek",
+      "boyabat",
       "dikmen",
-      "saraydüzü"
+      "durağan",
+      "erfelek",
+      "gerze",
+      "merkez",
+      "saraydüzü",
+      "türkeli"
     ]
   },
   {
@@ -1221,23 +1229,23 @@
     "latitude": "39.7505",
     "longitude": "37.0150",
     "counties": [
-      "merkez",
-      "şarkışla",
-      "yıldızeli",
-      "suşehri",
-      "gemerek",
-      "zara",
-      "kangal",
-      "gürün",
-      "divriği",
-      "koyulhisar",
-      "altınyayla",
-      "hafik",
-      "ulaş",
-      "imranlı",
       "akıncılar",
+      "altınyayla",
+      "divriği",
+      "doğanşar",
+      "gemerek",
       "gülova",
-      "doğanşar"
+      "gürün",
+      "hafik",
+      "imranlı",
+      "kangal",
+      "koyulhisar",
+      "merkez",
+      "suşehri",
+      "şarkışla",
+      "ulaş",
+      "yıldızeli",
+      "zara"
     ]
   },
   {
@@ -1246,17 +1254,17 @@
     "latitude": "40.9781",
     "longitude": "27.5117",
     "counties": [
-      "çorlu",
-      "süleymanpaşa",
       "çerkezköy",
-      "kapaklı",
+      "çorlu",
       "ergene",
-      "malkara",
-      "saray",
       "hayrabolu",
-      "şarköy",
+      "kapaklı",
+      "malkara",
+      "marmaraereğlisi",
       "muratlı",
-      "marmaraereğlisi"
+      "saray",
+      "süleymanpaşa",
+      "şarköy"
     ]
   },
   {
@@ -1265,18 +1273,18 @@
     "latitude": "40.3235",
     "longitude": "36.5522",
     "counties": [
-      "merkez",
-      "erbaa",
-      "turhal",
-      "niksar",
-      "zile",
-      "reşadiye",
       "almus",
-      "pazar",
-      "başçiftlik",
-      "yeşilyurt",
       "artova",
-      "sulusaray"
+      "başçiftlik",
+      "erbaa",
+      "merkez",
+      "niksar",
+      "pazar",
+      "reşadiye",
+      "sulusaray",
+      "turhal",
+      "yeşilyurt",
+      "zile"
     ]
   },
   {
@@ -1285,24 +1293,24 @@
     "latitude": "41.0027",
     "longitude": "39.7168",
     "counties": [
-      "ortahisar",
       "akçaabat",
       "araklı",
-      "of",
-      "yomra",
       "arsin",
-      "vakfıkebir",
-      "sürmene",
-      "maçka",
       "beşikdüzü",
       "çarşıbaşı",
-      "tonya",
-      "düzköy",
       "çaykara",
-      "şalpazarı",
+      "dernekpazarı",
+      "düzköy",
       "hayrat",
       "köprübaşı",
-      "dernekpazarı"
+      "maçka",
+      "of",
+      "ortahisar",
+      "sürmene",
+      "şalpazarı",
+      "tonya",
+      "vakfıkebir",
+      "yomra"
     ]
   },
   {
@@ -1311,14 +1319,14 @@
     "latitude": "39.1062",
     "longitude": "39.5483",
     "counties": [
-      "merkez",
-      "pertek",
-      "mazgirt",
       "çemişgezek",
       "hozat",
+      "mazgirt",
+      "merkez",
+      "nazımiye",
       "ovacık",
-      "pülümür",
-      "nazımiye"
+      "pertek",
+      "pülümür"
     ]
   },
   {
@@ -1327,19 +1335,19 @@
     "latitude": "37.1674",
     "longitude": "38.7955",
     "counties": [
-      "eyyübiye",
-      "haliliye",
-      "siverek",
-      "viranşehir",
-      "karaköprü",
       "akçakale",
-      "suruç",
       "birecik",
-      "ceylanpınar",
-      "harran",
       "bozova",
+      "ceylanpınar",
+      "eyyübiye",
+      "halfeti",
+      "haliliye",
+      "harran",
       "hilvan",
-      "halfeti"
+      "karaköprü",
+      "siverek",
+      "suruç",
+      "viranşehir"
     ]
   },
   {
@@ -1348,12 +1356,12 @@
     "latitude": "38.6742",
     "longitude": "29.4059",
     "counties": [
-      "merkez",
       "banaz",
       "eşme",
+      "karahallı",
+      "merkez",
       "sivaslı",
-      "ulubey",
-      "karahallı"
+      "ulubey"
     ]
   },
   {
@@ -1362,19 +1370,19 @@
     "latitude": "38.5012",
     "longitude": "43.3730",
     "counties": [
-        "ipekyolu",
-        "erciş",
-        "tuşba",
-        "edremit",
-        "özalp",
-        "çaldıran",
-        "başkale",
-        "muradiye",
-        "gürpınar",
-        "gevaş",
-        "saray",
-        "çatak",
-        "bahçesaray"
+      "bahçesaray",
+      "başkale",
+      "çaldıran",
+      "çatak",
+      "edremit",
+      "erciş",
+      "gevaş",
+      "gürpınar",
+      "ipekyolu",
+      "muradiye",
+      "özalp",
+      "saray",
+      "tuşba"
     ]
   },
   {
@@ -1383,20 +1391,20 @@
     "latitude": "39.8210",
     "longitude": "34.8086",
     "counties": [
-      "merkez",
-      "sorgun",
       "akdağmadeni",
-      "yerköy",
-      "sarıkaya",
-      "boğazlıyan",
-      "çekerek",
-      "şefaatli",
-      "saraykent",
-      "çayıralan",
-      "kadışehri",
       "aydıncık",
+      "boğazlıyan",
+      "çandır",
+      "çayıralan",
+      "çekerek",
+      "kadışehri",
+      "merkez",
+      "saraykent",
+      "sarıkaya",
+      "sorgun",
+      "şefaatli",
       "yenifakıllı",
-      "çandır"
+      "yerköy"
     ]
   },
   {
@@ -1405,14 +1413,14 @@
     "latitude": "41.4535",
     "longitude": "31.7894",
     "counties": [
-      "ereğli",
-      "merkez",
+      "alaplı",
       "çaycuma",
       "devrek",
-      "kozlu",
-      "alaplı",
+      "ereğli",
+      "gökçebey",
       "kilimli",
-      "gökçebey"
+      "kozlu",
+      "merkez"
     ]
   },
   {
@@ -1421,12 +1429,12 @@
     "latitude": "38.3686",
     "longitude": "34.0297",
     "counties": [
-      "merkez",
-      "ortaköy",
+      "ağaçören",
       "eskil",
       "gülağaç",
       "güzelyurt",
-      "ağaçören",
+      "merkez",
+      "ortaköy",
       "sarıyahşi",
       "sultanhanı"
     ]
@@ -1437,9 +1445,9 @@
     "latitude": "40.2603",
     "longitude": "40.2280",
     "counties": [
-      "merkez",
+      "aydıntepe",
       "demirözü",
-      "aydıntepe"
+      "merkez"
     ]
   },
   {
@@ -1448,12 +1456,12 @@
     "latitude": "37.1810",
     "longitude": "33.2222",
     "counties": [
-      "merkez",
-      "ermenek",
-      "sarıevliler",
       "ayrancı",
+      "başyayla",
+      "ermenek",
       "kazımkarabekir",
-      "başyayla"
+      "merkez",
+      "sarıevliler"
     ]
   },
   {
@@ -1462,15 +1470,15 @@
     "latitude": "39.8398",
     "longitude": "33.5089",
     "counties": [
-      "merkez",
-      "yahşihan",
-      "keskin",
-      "delice",
       "bahşili",
-      "sulakyurt",
       "balışeyh",
+      "çelebi",
+      "delice",
       "karakeçili",
-      "çelebi"
+      "keskin",
+      "merkez",
+      "sulakyurt",
+      "yahşihan"
     ]
   },
   {
@@ -1479,12 +1487,12 @@
     "latitude": "37.8895",
     "longitude": "41.1293",
     "counties": [
-      "merkez",
-      "kozluk",
       "beşiri",
-      "sason",
       "gerçüş",
-      "hasankeyf"
+      "hasankeyf",
+      "kozluk",
+      "merkez",
+      "sason"
     ]
   },
   {
@@ -1493,13 +1501,13 @@
     "latitude": "37.5190",
     "longitude": "42.4537",
     "counties": [
-      "cizre",
-      "silopi",
-      "merkez",
-      "idil",
-      "uludere",
       "beytüşşebap",
-      "güçlükonak"
+      "cizre",
+      "güçlükonak",
+      "idil",
+      "merkez",
+      "silopi",
+      "uludere"
     ]
   },
   {
@@ -1508,10 +1516,10 @@
     "latitude": "41.6376",
     "longitude": "32.3338",
     "counties": [
-      "merkez",
-      "ulus",
       "amasra",
-      "kurucaşile"
+      "kurucaşile",
+      "merkez",
+      "ulus"
     ]
   },
   {
@@ -1520,12 +1528,12 @@
     "latitude": "41.1130",
     "longitude": "42.7023",
     "counties": [
-      "merkez",
-      "göle",
       "çıldır",
+      "damal",
+      "göle",
       "hanak",
-      "posof",
-      "damal"
+      "merkez",
+      "posof"
     ]
   },
   {
@@ -1534,10 +1542,10 @@
     "latitude": "39.9201",
     "longitude": "44.0436",
     "counties": [
-      "merkez",
-      "tuzluca",
       "aralık",
-      "karakoyunlu"
+      "karakoyunlu",
+      "merkez",
+      "tuzluca"
     ]
   },
   {
@@ -1546,11 +1554,11 @@
     "latitude": "40.6549",
     "longitude": "29.2842",
     "counties": [
-      "merkez",
-      "çiftlikköy",
-      "çınarcık",
       "altınova",
       "armutlu",
+      "çınarcık",
+      "çiftlikköy",
+      "merkez",
       "termal"
     ]
   },
@@ -1560,12 +1568,12 @@
     "latitude": "41.1956",
     "longitude": "32.6227",
     "counties": [
-      "merkez",
-      "safranbolu",
-      "yenice",
-      "eskipazar",
       "eflani",
-      "ovacık"
+      "eskipazar",
+      "merkez",
+      "ovacık",
+      "safranbolu",
+      "yenice"
     ]
   },
   {
@@ -1574,9 +1582,9 @@
     "latitude": "36.7165",
     "longitude": "37.1147",
     "counties": [
+      "elbeyli",
       "merkez",
       "musabeyli",
-      "elbeyli",
       "polateli"
     ]
   },
@@ -1586,13 +1594,13 @@
     "latitude": "37.0746",
     "longitude": "36.2464",
     "counties": [
-      "merkez",
-      "kadirli",
-      "düziçi",
       "bahçe",
-      "toprakkale",
+      "düziçi",
+      "hasanbeyli",
+      "kadirli",
+      "merkez",
       "sumbas",
-      "hasanbeyli"
+      "toprakkale"
     ]
   },
   {
@@ -1601,14 +1609,14 @@
     "latitude": "40.8387",
     "longitude": "31.1626",
     "counties": [
-      "merkez",
       "akçakoca",
-      "kaynaşlı",
-      "gölyaka",
+      "cumayeri",
       "çilimli",
-      "yığılca",
+      "gölyaka",
       "gümüşova",
-      "cumayeri"
+      "kaynaşlı",
+      "merkez",
+      "yığılca"
     ]
   }
 ]
